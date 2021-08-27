@@ -30,7 +30,7 @@ object DT{
 		var a5:Short =45
 		var a6:Double =5.25496665532
 		var a7:Char ='d'
-		var a8:String ="hi,deepak"
+		var a8:String ="hi,kashish"
 		var a9:Long=514505461
 		
 		println("byte :"+a2)
